@@ -6,6 +6,6 @@
 =======
 <h2>Hello World!!</h2>
 <h2>It works That's Great!!</h2>
->>>>>>> 275ff5e1b7817afbcd8dda6831fa4937b8f2e000
+<h3>THIS IS TURNING BETTER</h3>
 </body>
 </html>
